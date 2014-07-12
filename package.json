@@ -1,0 +1,27 @@
+{
+  "name": "node-netgear",
+  "version": "0.0.0",
+  "description": "Netgear router interface for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanthejuggler/node-netgear.git"
+  },
+  "keywords": [
+    "netgear",
+    "router"
+  ],
+  "author": "Ryan Muller <ryan.a.muller+gh@gmail.com>",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/ryanthejuggler/node-netgear/issues"
+  },
+  "homepage": "https://github.com/ryanthejuggler/node-netgear",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "request": "^2.36.0"
+  }
+}
